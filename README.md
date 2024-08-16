@@ -1,3 +1,3 @@
 # Python-demo
-This is first repository.
-Author - sabnam
+This is the first repository.
+Author - Shabnam
